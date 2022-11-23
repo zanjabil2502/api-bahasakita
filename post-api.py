@@ -2,7 +2,7 @@ import gradio as gr
 import requests
 
 # Set Token
-token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoibWV0cm90diIsInBhc3N3b3JkIjoibWV0cm90djEyMyJ9.b7wTuaEZRgoY3KTFP8JqcIT84ewdR6hv9fd7Tms4lSE'
+token = 'yourtokens'
 
 # Set Input
 url = None  # String | None, url youtube for download video
